@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://54.238.47.22:8081/repository/nuget.org-proxy/"
+    "registry": "hhttp://54.238.47.22:8081/repository/nodejsrpmss/"
   },
   
   "scripts": {
